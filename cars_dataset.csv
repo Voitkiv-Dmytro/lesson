@@ -1,0 +1,16 @@
+Brand,Model,Year,Engine_Size_L,Transmission,Fuel_Type,Price_USD
+Toyota,Corolla,2019,1.8,Automatic,Petrol,18000
+Honda,Civic,2020,2.0,Manual,Petrol,22000
+Ford,Focus,2018,1.5,Automatic,Diesel,17000
+BMW,3 Series,2021,3.0,Automatic,Petrol,35000
+Mercedes-Benz,C-Class,2022,2.0,Automatic,Diesel,40000
+Volkswagen,Golf,2017,1.4,Manual,Petrol,16000
+Nissan,Altima,2020,2.5,Automatic,Petrol,23000
+Chevrolet,Malibu,2019,1.5,Automatic,Petrol,19000
+Hyundai,Elantra,2021,2.0,Automatic,Petrol,21000
+Kia,Optima,2018,2.4,Manual,Petrol,19500
+Audi,A4,2021,2.0,Automatic,Petrol,37000
+Mazda,3,2020,2.5,Automatic,Petrol,25000
+Subaru,Impreza,2019,2.0,Manual,Petrol,18000
+Lexus,IS,2022,3.5,Automatic,Petrol,45000
+Tesla,Model 3,2021,Electric,Automatic,Electric,48000
